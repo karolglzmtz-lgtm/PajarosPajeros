@@ -211,6 +211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxDistance: 3
   forceMultiplier: 10
+  resetDelay: 3
 --- !u!212 &508502899
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -865,6 +866,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakForce: 5
+  points: 100
 --- !u!212 &1928009707
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -1,0 +1,56 @@
+{
+    "name": "Controles",
+    "maps": [
+        {
+            "name": "OnMouseDown",
+            "id": "e236f3ad-475e-4904-abc5-0d58337dcc9e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "aa43a5ad-1341-4e18-914e-16b574ea35da",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9038962b-7e60-451d-96e7-2b817a9e0036",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9d706286-a35d-4674-843b-594d9af7c54e",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a6523fe5-f495-4106-8363-3cba9bed83aa",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
